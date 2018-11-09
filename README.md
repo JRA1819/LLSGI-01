@@ -6,5 +6,5 @@ _Aquest repositori inclou *3 fichers,_ __ en diferents extensions,__ ___ RTF, XM
 1.LM1
 2.LM2
 3.LM3
-Enllaços(  )
+Enllaços( https://github.com/JRA1819/LLSGI-01  ) 
 
