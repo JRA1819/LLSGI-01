@@ -3,8 +3,8 @@ Primera activitat per aprendre Github,  edició de documents i us de Rawgit
 Realitzada per l´alumne J.Ruiz del IES F.B. Moll 
 Asignatura de Llenguatges de Marcas
 *Aquest repositori inclou 3 fichers* 
-** en diferents extensions** 
-*Arxius*
+**en diferents extensions** 
+***Arxius***
 RTF
 XML
 HTML
